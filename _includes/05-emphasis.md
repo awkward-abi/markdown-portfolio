@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I am a student taking up*
+_BSIT in STI Global City_
+
+**I am surrently a second year student**
+__I know Java, a bit of HMTL and CSS, and familiarization on git__
+
+_I know that I **can** improve myself even more.😄_
